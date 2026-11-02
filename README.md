@@ -28,4 +28,4 @@ python3 skills/deadline-radar/scripts/deadline_radar.py --demo --repo NousResear
 
 It stores nothing and uses no credentials, so only public repositories work.
 
-Created for CSCI 599 (Agentic AI), Fall 2026, with AI assistance.
+Created for CSCI 599 (Agentic AI), Fall 2026, with AI assistance. This repository is also the home page of the project's Google sign-in app, A3 Assistant, which has its own [privacy policy](PRIVACY.md).
